@@ -29,10 +29,10 @@ To use the subscription tracker, you will need to go to the main landing page (l
 ![registration](./public/assets/images/registrationPage.jpg)
 ![login](./public/assets/images/login.jpg)
 ![profile](./public/assets/images/blankProfile.jpg)
-![profile](./public/assets/images/profile,jpg)
+<!-- ![profile](./public/assets/images/profile,jpg) -->
 ![adding](./public/assets/images/addingSub.jpg)
 ![no icon](./public/assets/images/unknownSub.jpg)
-![view](./public/assets/images/editsubscription.jpg)
+<!-- ![view](./public/assets/images/editsubscription.jpg) -->
     <!-- <img src="public/assets/subscriptionTracker.gif" style = "width: 50%; height: auto"> -->
 <!-- <img src="public/assets/landingPage.jpg" style = "width: 50%; height: auto">
 <img src="public/assets/registrationPage.jpg" style = "width: 50%; height: auto">
