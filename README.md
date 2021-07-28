@@ -6,6 +6,18 @@ Subscription-Tracker is a website that allows you to track the various recurring
 
 <a href = "https://subscription-trkr.herokuapp.com/">Here is a link to Subscription-Tracker</a>
 
+## Installation
+
+#### Prerequisites
+
+* [Node.js](https://nodejs.org/en/download/)
+
+Download the project and run `npm i` in the directory to install the required npm packages.
+
+## Usage
+
+Run `npm start` to start the application and visit `http://localhost:3333` in browser to view it.
+
 ## Using The Subscription Tracker
 
 To use the subscription tracker, you will need to go to the main landing page (listed above), and click register if you are a first time user. Otherwise you can select to login where a pop up box will ask for your email and password. Selecting register will take you to the registration page where you create your account. You will now be at your profile page. Existing subscriptions that you already had will appear in this left side of the page (as they are stored by the application). The right hand side of the page will display subscriptions on the day in which they renew. The Add Subscription page will take you to the requisite page to make those changes. Some common subscriptions have been pre-loaded and will appear on your New Subscription page before you even hit submit. Other subscriptions will randomly generate a color. From your profile screen, you can click the pencil to edit your existing subscriptions at any time.
